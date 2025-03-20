@@ -61,7 +61,7 @@ export const Banner = () => {
 
 I’m a Software Engineer with a passion for cloud computing, AI/ML, and scalable full-stack web systems. I hold a Master’s in Computer Science from the University at Buffalo and am AWS Solutions Architect – Associate and AWS Developer – Associate certified. My expertise lies in building high-performance applications, optimizing cloud infrastructure, and solving complex engineering challenges. I thrive in fast-paced environments and love turning ideas into impactful solutions. Welcome to my portfolio—let’s build something amazing! 🚀</p>
                   <button>
-  <a href="#connect" className="connect-link">Let’s Connect <ArrowRightCircle size={25} /></a>
+  <a href="https://www.linkedin.com/in/varunrajvr/" className="connect-link">Let’s Connect <ArrowRightCircle size={25} /></a>
 </button>              </div>}
             </TrackVisibility>
           </Col>
